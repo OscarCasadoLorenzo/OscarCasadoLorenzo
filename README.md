@@ -1,6 +1,6 @@
-Hi 👋, I am OSSO and my name is Oscar Casado, FullStack developer and UI designer. 
-I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects. 
-I love networking, take part of a team and create community. 
+Hi 👋, I am OSSO and my name is Oscar Casado, FullStack developer and UI designer.   
+I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
+I love networking, take part of a team and create community.  
 
 <div>
 <details>
