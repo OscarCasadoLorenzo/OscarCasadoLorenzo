@@ -18,11 +18,10 @@
 
 ## 🧡 About me
 
-<p style="color:E9E5D6">
-  Hi 👋🏻, I am **OSSO** and my name is Oscar Casado, **FullStack** developer and UI designer.   
-  I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
-  I love networking, take part of a team and create community.  
-</p>
+Hi 👋🏻, I am **OSSO** and my name is Oscar Casado, **FullStack** developer and UI designer.   
+I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
+I love networking, take part of a team and create community.  
+
 
 
 <details style="color:#E9E5D6">
