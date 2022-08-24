@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img width="30%" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/logos/icons/NameWhite.png"/>
+  <img width="30%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/iamges/logos/NameWhite.png"/>
 </div>
 
 <div align="center">
-  <img width="30%" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/BathWhite.png"/>
+  <img width="30%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/BathWhite.png"/>
 </div>
 
 <h1 align="center">FullStack Developer</h1>
