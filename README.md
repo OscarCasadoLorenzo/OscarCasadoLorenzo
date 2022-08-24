@@ -17,7 +17,7 @@ I specialise in Web & API Development like freelance or employee adding value an
 I love networking, take part of a team and create community.  
 
 
-<details>
+<div align="left" width="50%">
   <summary>More about me</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
@@ -29,10 +29,13 @@ I love networking, take part of a team and create community.
 - 📈 Ask me about **open source, software development and job availability**
 
 - 📫 Reach me out at **[Linkedin](https://www.linkedin.com/in/oscarcasadolorenzo/)**
-</details>
+</div>
+
+<div align="left" width="50%">
+<img align="right" width="38%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/photos/Portrait.jpeg"/>
+</div>
  
  ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/photos/Portrait.jpeg"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=OscarCasadoLorenzo&hide_border=radical&title_color=F2CF4F&bg_color=094F59&text_color=E9E5D6&show_icons=true&theme=highcontrast">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCasadoLorenzo&layout=compact&hide_border=true&bg_color=094F59&text_color=E9E5D6&title_color=F2CF4F">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=OscarCasadoLorenzo&hide_border=radical&title_color=F2CF4F&bg_color=094F59&text_color=E9E5D6&show_icons=true&theme=highcontrast">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCasadoLorenzo&layout=compact&hide_border=true&bg_color=094F59&text_color=E9E5D6&title_color=F2CF4F">
