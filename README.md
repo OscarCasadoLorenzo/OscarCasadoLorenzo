@@ -1,7 +1,18 @@
+
+<div align="center">
+  <img width="30%" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/logos/icons/NameWhite.png"/>
+</div>
+
+<div align="center">
+  <img width="30%" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/BathWhite.png"/>
+</div>
+
+<h1 align="center">FullStack Developer</h1>
+
 <p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/oscarcasadolorenzo/" alt="LinkedIn" title="LinkedIn"><img width="32px" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/oscarcasadolorenzo/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/osso.branding/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -12,7 +23,7 @@
 
 ## 🧡 About me
 
-Hi 👋🏻, I am OSSO and my name is Oscar Casado, FullStack developer and UI designer.   
+Hi 👋🏻, I am **OSSO** and my name is Oscar Casado, **FullStack** developer and UI designer.   
 I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
 I love networking, take part of a team and create community.  
 
