@@ -2,7 +2,7 @@
   <img style="margin-top:-100px; width:30%;" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/GithubBanner.png"/>
 </div>
 
-<h1 align="center">FullStack Developer</h1>
+<h1 style="color:#E9E5D6" align="center">FullStack Developer</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/youtube.png"/></a>
@@ -18,12 +18,15 @@
 
 ## 🧡 About me
 
-Hi 👋🏻, I am **OSSO** and my name is Oscar Casado, **FullStack** developer and UI designer.   
-I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
-I love networking, take part of a team and create community.  
+<p style="color:#E9E5D6>
+  Hi 👋🏻, I am **OSSO** and my name is Oscar Casado, **FullStack** developer and UI designer.   
+  I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
+  I love networking, take part of a team and create community.  
+</p>
 
-<details>
-  <summary>
+
+<details style="color:#E9E5D6>
+  <summary style="color:#E9E5D6>
     More about me
   </summary>
   
