@@ -31,8 +31,8 @@ I love networking, take part of a team and create community.
   - 📫 Reach me out at **[Linkedin](https://www.linkedin.com/in/oscarcasadolorenzo/)**
   </div>
 
-  <div align="right" width="50%">
-    <img src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/photos/Portrait.jpeg"/>
+  <div align="right">
+    <img width="50%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/photos/Portrait.jpeg"/>
   </div>
 </div>
 
