@@ -16,24 +16,28 @@ Hi 👋🏻, I am OSSO and my name is Oscar Casado, FullStack developer and UI d
 I specialise in Web & API Development like freelance or employee adding value and innovating solutions to my projects.  
 I love networking, take part of a team and create community.  
 
+<div>
+  <div align="left" width="50%">
+    <summary>More about me</summary>
 
-<div align="left" width="50%">
-  <summary>More about me</summary>
+  - 🔭 I’m currently on a journey to build **great** things
 
-- 🔭 I’m currently on a journey to build **great** things
+  - 🌱 I’m currently learning about **project management** 
 
-- 🌱 I’m currently learning about **project management** 
+  - 🤝 I’ll help developers to **boost** their **carrers**
 
-- 🤝 I’ll help developers to **boost** their **carrers**
+  - 📈 Ask me about **open source, software development and job availability**
 
-- 📈 Ask me about **open source, software development and job availability**
+  - 📫 Reach me out at **[Linkedin](https://www.linkedin.com/in/oscarcasadolorenzo/)**
+  </div>
 
-- 📫 Reach me out at **[Linkedin](https://www.linkedin.com/in/oscarcasadolorenzo/)**
+  <div align="right" width="50%">
+    <img src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/photos/Portrait.jpeg"/>
+  </div>
 </div>
 
-<div align="left" width="50%">
-<img align="right" width="38%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/photos/Portrait.jpeg"/>
-</div>
+
+
  
  ## 🔥 Github Stats
 
