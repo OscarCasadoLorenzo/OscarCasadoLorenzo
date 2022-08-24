@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/oscarcasadolorenzo/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/osso.branding/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/instagram.png"></a>
+  <a href="https://www.instagram.com/adolexente/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -44,5 +44,5 @@ I love networking, take part of a team and create community.
 
  ## 🔥 Github Stats
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=OscarCasadoLorenzo&hide_border=radical&title_color=F2CF4F&bg_color=094F59&text_color=E9E5D6&show_icons=true&theme=highcontrast">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCasadoLorenzo&layout=compact&hide_border=true&bg_color=094F59&text_color=E9E5D6&title_color=F2CF4F">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=OscarCasadoLorenzo&hide_border=radical&title_color=F2CF4F&bg_color=094F59&text_color=E9E5D6&show_icons=true&theme=highcontrast">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCasadoLorenzo&layout=compact&hide_border=true&bg_color=094F59&text_color=E9E5D6&title_color=F2CF4F">
