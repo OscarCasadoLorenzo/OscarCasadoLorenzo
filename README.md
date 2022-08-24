@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img style="width:30%; margin-bottom:-50px;" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/NameWhite.png"/>
+  <img style="width:30%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/NameWhite.png"/>
 </div>
 
 <div align="center">
-  <img width="30%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/BathWhite.png"/>
+  <img style="margin-top:-100px; width:30%;" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/BathWhite.png"/>
 </div>
 
 <h1 align="center">FullStack Developer</h1>
