@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="30%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/iamges/logos/NameWhite.png"/>
+  <img width="30%" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/NameWhite.png"/>
 </div>
 
 <div align="center">
