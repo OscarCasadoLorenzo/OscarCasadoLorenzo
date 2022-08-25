@@ -24,7 +24,7 @@ I love networking, take part of a team and create community.
 
 
 
-<details style="color:#E9E5D6">
+<details open style="color:#E9E5D6">
   <summary style="color:#E9E5D6">
     More about me
   </summary>
