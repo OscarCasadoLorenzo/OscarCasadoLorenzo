@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="margin-top:-100px; width:30%;" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/GithubBanner.png"/>
+  <img style="margin-top:-100px; width:30%;" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/logos/GithubBanner2.png"/>
 </div>
 
 <h1 style="color:#E9E5D6" align="center">FullStack Developer</h1>
