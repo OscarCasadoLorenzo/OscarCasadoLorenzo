@@ -5,15 +5,10 @@
 <h1 style="color:#E9E5D6" align="center">FullStack Developer</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/youtube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/oscarcasadolorenzo/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/adolexente/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.twitch.tv/"><img width="32px" alt="Twitch" title="Twitch" src="https://github.com/OscarCasadoLorenzo/OscarCasadoLorenzo/blob/main/images/icons/twitch.png"/></a>
 </p>
 
 ## 🧡 About me
